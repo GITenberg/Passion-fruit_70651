@@ -1,0 +1,38 @@
+_repo: Passion-fruit_70651
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    aliases:
+    - Stacpoole, Henry De Vere
+    - Stacpoole, H. de Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: ''
+gutenberg_issued: '2023-04-27'
+identifiers:
+  gutenberg: '70651'
+language: en
+pgterms:marc904: https://archive.org/details/everybodys-magazine-v-51-n-02-1924-08
+pgterms:marc905: 20230407121444stacpoole
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bThe Ridgway Company, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'New Caledonia -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Passion fruit
+url: http://www.gutenberg.org/ebooks/70651
