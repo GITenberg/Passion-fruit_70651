@@ -1,5 +1,8 @@
 _repo: Passion-fruit_70651
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70651-h/images/cover.jpg
 creator:
   author:
     agent_name: Stacpoole, H. De Vere (Henry De Vere)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/219
     wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70651#Passion-fruit
 gutenberg_issued: '2023-04-27'
 identifiers:
   gutenberg: '70651'
